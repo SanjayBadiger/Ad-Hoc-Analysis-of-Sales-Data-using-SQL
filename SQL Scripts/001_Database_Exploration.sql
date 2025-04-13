@@ -1,4 +1,4 @@
-//* DATABASE EXPLORATION *//
+/* DATABASE EXPLORATION */
 
 -- exploring all objects in the database
 select * from INFORMATION_SCHEMA.TABLES
