@@ -1,5 +1,5 @@
 
-//* DIMENSION EXPLORATION *//
+/* DIMENSION EXPLORATION */
 select distinct country from gold.dim_customers
 
 select * from gold.dim_products
