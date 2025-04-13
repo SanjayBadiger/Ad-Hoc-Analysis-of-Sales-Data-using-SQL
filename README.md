@@ -2,12 +2,12 @@
 
 This is the Ad-Hoc Data Analysis of the sales data.
 
-## Sales data in a brief view contains two dimesnion tables and one fact table.
+## Sales data in a brief view contains two dimension tables and one fact table.
 1. Products table --> Dimension table
 2. Customers table --> Dimension table
 3. Sales table --> Fact table
 
-The contents explored are categorized into 2 major type of analysis:
+The contents explored are categorized into 2 major types of analysis:
 
 ## A. Exploratory Data Analysis:
   1. Data-base Exploration
@@ -25,4 +25,10 @@ The contents explored are categorized into 2 major type of analysis:
   5. Data Segmentation and Related Analysis
   6. Reporting (by creating Views)
 
-## SQL Scripts include Joins, Subqueries and CTEs for analysis purpose
+### What all I used?
+1. JOINS
+2. Subqueries
+3. CTEs (Common Table Expressions)
+4. Views for reports
+5. Analytical Thinking
+6. Problem Solving Attitude
