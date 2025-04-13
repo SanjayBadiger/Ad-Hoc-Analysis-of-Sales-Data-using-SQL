@@ -1,5 +1,5 @@
 
-//* Cumulative Analysis *//
+/* Cumulative Analysis */
 -- aggregating the data progressively over the time
 -- helps to understand whether our budiness is growing or declining
 
