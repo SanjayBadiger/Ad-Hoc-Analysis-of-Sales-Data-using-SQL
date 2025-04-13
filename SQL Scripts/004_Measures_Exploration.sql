@@ -1,5 +1,5 @@
 
-//* Measures Exploration *//
+/* Measures Exploration */
 select * from gold.fact_sales
 
 -- find the total sales
@@ -29,7 +29,7 @@ select count(distinct customer_key) as total_products_ordered from gold.fact_sal
 --number of customers 
 select count(customer_id) as total_customers from gold.dim_customers
 
-//* Generating the report *//
+/* Generating the report */
 select 'TotalSales' as MeasureName, sum(total_sales) as MeasureValue
 from (select sales_amount*quantity as total_sales from gold.fact_sales) as fact_sales
 UNION ALL
