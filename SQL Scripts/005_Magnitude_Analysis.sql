@@ -1,7 +1,7 @@
 
-//* Magnitude Analysis 
+/* Magnitude Analysis 
 --> compare the measure values by categories.
---> it helps to understand the importance of different categories*//
+--> it helps to understand the importance of different categories*/
 
 
 -- Total Customers by Country
